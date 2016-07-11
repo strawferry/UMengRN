@@ -1,0 +1,25 @@
+PODS:
+  - Bugtags (1.2.8)
+  - HyphenateFullSDK (3.1.3)
+  - UMengSocialCOM (5.2.1)
+
+DEPENDENCIES:
+  - Bugtags
+  - HyphenateFullSDK (from `https://github.com/easemob/hyphenate-full-cocoapods.git`)
+  - UMengSocialCOM (~> 5.2.1)
+
+EXTERNAL SOURCES:
+  HyphenateFullSDK:
+    :git: https://github.com/easemob/hyphenate-full-cocoapods.git
+
+CHECKOUT OPTIONS:
+  HyphenateFullSDK:
+    :commit: 904016687d6099c0158971380be7e8cd859fb79e
+    :git: https://github.com/easemob/hyphenate-full-cocoapods.git
+
+SPEC CHECKSUMS:
+  Bugtags: be7726c9bd65ace4223cd278c205f6db981667d0
+  HyphenateFullSDK: 8b5b092055480308a47c9bb9b78baed7f45f7713
+  UMengSocialCOM: 074c135ce349aa4c8848d3fb8458757bcb6ffb67
+
+COCOAPODS: 0.39.0

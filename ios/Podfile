@@ -1,0 +1,18 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '8.0'
+# Uncomment this line if you're using Swift
+# use_frameworks!
+
+target 'UMengRN' do
+#友盟分享
+pod 'UMengSocialCOM', '~> 5.2.1'
+#Bugtags
+pod 'Bugtags'
+#Easemob环信实时语音版本SDK
+pod 'HyphenateFullSDK', :git => 'https://github.com/easemob/hyphenate-full-cocoapods.git'
+end
+
+target 'UMengRNTests' do
+
+end
+
